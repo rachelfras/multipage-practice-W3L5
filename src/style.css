@@ -1,0 +1,18 @@
+/*:root {
+    primary-color:
+    secondary-color:
+}*/
+
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+h1 {
+  padding-top: 30px;
+}
+
+h2 {
+  font-size: 5px;
+}
